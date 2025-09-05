@@ -8,7 +8,14 @@ Uygulama, **Lyrics.ovh API** üzerinden sanatçı ve şarkı adına göre arama 
 ## 🎯 Genel Amaç
 - Kullanıcıların istedikleri sanatçının şarkı sözlerine kolayca ulaşmasını sağlamak.  
 - Basit, anlaşılır ve kullanıcı dostu bir arayüz ile hızlı sonuç göstermek.  
-- Ücretsiz bir şarkı sözleri API’sini kullanarak dinamik içerik sunmak.  
+- Ücretsiz bir şarkı sözleri API’sini kullanarak dinamik içerik sunmak.
+
+
+![WhatsApp Görsel 2025-09-05 saat 14 08 26_a1215328](https://github.com/user-attachments/assets/de7dce06-c250-46e0-9bb0-28d2ce19561f)
+
+![WhatsApp Görsel 2025-09-05 saat 14 08 26_588abfa6](https://github.com/user-attachments/assets/9d2b94f9-b79b-4c61-9f72-847e07e6b7ae)
+
+
 
 ---
 
